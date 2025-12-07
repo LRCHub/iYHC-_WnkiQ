@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Bloody Mary / 缶缶",
+  "base_artist": "缶缶",
+  "createdAt": "2025-12-07T14:04:16.728626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloody Mary Morning (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/01_Bloody_Mary_Morning_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_1978)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "New Years Day",
+      "has_synced": true,
+      "path": "select/03_Bloody_Mary_New_Years_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Whitesnake",
+      "has_synced": false,
+      "path": "select/04_Bloody_Mary_Whitesnake.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloody Mary (Sped Up)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/06_Bloody_Mary_(Sped_Up)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/07_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "KANKAN feat. FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/08_Bloody_Mary_KANKAN_feat._FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "KANKAN",
+      "has_synced": true,
+      "path": "select/09_Bloody_Mary_KANKAN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bloody Mary (Nerve Endings)",
+      "artist": "Silversun Pickups",
+      "has_synced": false,
+      "path": "select/10_Bloody_Mary_(Nerve_Endings)_Silversun_Pickups.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/11_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/12_Bloody_Mary_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Tom & Dick",
+      "has_synced": false,
+      "path": "select/13_Bloody_Mary_Tom_&_Dick.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bloody Mary (Nerve Endings)",
+      "artist": "Silversun Pickups",
+      "has_synced": true,
+      "path": "select/14_Bloody_Mary_(Nerve_Endings)_Silversun_Pickups.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "Lizzy Borden",
+      "has_synced": false,
+      "path": "select/15_Bloody_Mary_Lizzy_Borden.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bloody Mary",
+      "artist": "KANKAN, FAKE TYPE.",
+      "has_synced": true,
+      "path": "select/16_Bloody_Mary_KANKAN,_FAKE_TYPE..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bloody Mary Morning",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/17_Bloody_Mary_Morning_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "08 Bloody Mary Morning",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/18_08_Bloody_Mary_Morning_Willie_Nelson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloody Mary",
+      "artist": "缶缶",
+      "has_synced": false,
+      "path": "select/pl_01_Bloody_Mary_缶缶.txt"
+    }
+  ]
+}
